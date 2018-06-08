@@ -1,0 +1,88 @@
+8
+
+dir
+122
+svn://filu.myftp.org/Gruppe1-LA-4/LeitendeAufgabenstellung
+svn://filu.myftp.org/Gruppe1-LA-4
+
+
+
+2008-07-27T19:22:30.994139Z
+122
+marc
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a8d6b6da-ba59-4064-9d83-2d99e579f8b6
+
+test
+dir
+
+nbproject
+dir
+
+src
+dir
+
+manifest.mf
+file
+
+
+
+
+2008-07-27T21:28:18.000000Z
+1a85ea4420d859b3aab3af09fc398382
+2008-05-12T15:19:11.704454Z
+4
+marc
+
+Help
+dir
+
+Help.html
+file
+
+
+
+
+2008-07-27T21:28:18.000000Z
+c6d8bea2983376901b1f1f751eb62791
+2008-07-12T11:58:13.584379Z
+70
+marc
+
+item.xml
+file
+
+
+
+
+2008-07-27T21:28:18.000000Z
+3875b34586d0f01adc66d8f2545a2e40
+2008-07-13T14:00:02.516261Z
+80
+romino
+
+build.xml
+file
+
+
+
+
+2008-07-27T21:28:18.000000Z
+05478a5b3db3fa1e053bc718c3eb232e
+2008-05-12T15:19:11.704454Z
+4
+marc
+

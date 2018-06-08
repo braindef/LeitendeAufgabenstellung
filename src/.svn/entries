@@ -1,0 +1,34 @@
+8
+
+dir
+122
+svn://filu.myftp.org/Gruppe1-LA-4/LeitendeAufgabenstellung/src
+svn://filu.myftp.org/Gruppe1-LA-4
+
+
+
+2008-07-27T19:22:30.994139Z
+122
+marc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a8d6b6da-ba59-4064-9d83-2d99e579f8b6
+
+flightManagementSystem
+dir
+
+javazoom
+dir
+

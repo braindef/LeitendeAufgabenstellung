@@ -1,0 +1,98 @@
+8
+
+dir
+122
+svn://filu.myftp.org/Gruppe1-LA-4/LeitendeAufgabenstellung/src/flightManagementSystem
+svn://filu.myftp.org/Gruppe1-LA-4
+
+
+
+2008-07-27T19:22:30.994139Z
+122
+marc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a8d6b6da-ba59-4064-9d83-2d99e579f8b6
+
+TODO.txt
+file
+
+
+
+
+2008-07-27T21:28:15.000000Z
+f16f7784fca2f39cb401e9bfb29dd973
+2008-07-27T14:25:43.831920Z
+117
+marc
+
+gui
+dir
+
+Main.java
+file
+
+
+
+
+2008-07-27T21:28:15.000000Z
+516bb0af3a7f24fb64567f2e93bd30c0
+2008-07-27T14:25:43.831920Z
+117
+marc
+
+Project Packages
+file
+
+
+
+
+2008-07-27T21:28:15.000000Z
+37907ea1635306dff0b75b9cd92bebd9
+2008-07-27T14:25:43.831920Z
+117
+marc
+
+lobo.jar
+file
+
+
+
+
+2008-07-27T21:28:15.000000Z
+4077fb349b125a6bb96aa7b2a1fb1432
+2008-07-27T14:25:43.831920Z
+117
+marc
+has-props
+
+data
+dir
+
+Presentation
+file
+
+
+
+
+2008-07-27T21:28:15.000000Z
+16d56bb252858683015cc917f9a00dca
+2008-07-27T14:25:43.831920Z
+117
+marc
+
+logic
+dir
+

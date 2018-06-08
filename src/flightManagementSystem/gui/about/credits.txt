@@ -1,0 +1,38 @@
+-=[Flightmanagementsystem]=-
+
+Diese Applikation wurde konzipiert
+und entwickelt von:
+
+Romino Florio 
+Pascal Jenni
+Marc Landolt
+
+Wir danken herzlich den Leuten
+von javazoom für das
+Programmieren einer OpenSource
+Library für das Abspielen
+von MP3's Platform unabhaengig
+
+Ausserdem möchte ich mich beim
+ganzen Team bedanken für die
+gute Zusammenarbeit
+
+
+und natürlich auch bei der Schule
+und ihren Dozenten
+
+Auch möchte ich die Gelegenheit
+nutzen und unsere ganze Klasse
+48 / 4i gruesse
+blablabla
+
+
+und gruesse an alle die uns
+kennen und auch an die anderen...
+
+...und auch einen Gruss an die
+Umlaute und Sonderzeichen...
+
+...Könnte hier wohl jemand noch
+so viel Text schreiben bis
+der Song fertig ist...

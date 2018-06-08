@@ -1,0 +1,32 @@
+Flight Management System – Hilfethemen
+
+neue Route erfassen
+- Waypoint eingeben: Klicken Sie dazu auf das + Symbol. Es wird eine neue Zeile in die Tabelle eingefügt. Schreiben Sie folgende Daten in die Tabelle
+-- Flughafen (Optional): Sollte der Waypoint gleichzeitig einem Flughafen entsprechen, können Sie hier optional einen Namen für den Flughafen eingeben.
+-- Waypoint  (zwingend): Geben Sie hier die Bezeichnung für den neuen Waypoint ein.
+-- Breitengrad (zwingend): Geben Sie hier den Breitengrad im Format Nxxxxx ein.
+-- Längengrad (zwingend): Geben Sie hier den Längengrad im Format Exxxxxx ein
+- Fluggeschwindigkeit: geben Sie hier die gewünschte Fluggeschwindigkeit ein
+- Waypoint löschen: Markieren Sie den zu löschen gewünschten Waypoint und klicken Sie anschliessend auf das – Symbol. Der Waypoint und die dazu gehörenden Daten werden aus der Tabelle gelöscht
+- Tabelle Sortieren: Mit den Pfeil-nach-oben und Pfeil-nach-unten Tasten können Sie die Tabelle analog der gewünschten Flugroute Sortieren
+- Daten Speichern / Öffnen
+- Daten importieren / exportieren
+- Berechnung: Wenn Sie alle Waypoints erfasst haben und die Berechnung starten möchten klicken Sich bitte auf Berechnen.
+-- ACHTUNG: Für die Berechnung sind zwingend zwei oder mehr Zeilen notwendig.
+
+Ausgabe Route und Wegpunkte
+- Ausgabe Routenabschnitte (Leg)
+-- From Waypoint: Bezeichnung des Ausgangs-Waypoint
+-- To Waypoint: Bezeichnung des Ankunfts-Waypoint
+-- Steuerkurs: Zeigt den benötigten Steuerkurs in Grad zwischen zwei Waypoint an
+-- Distanz: Zeigt die Distanz zwischen den beiden Waypoint in nautischen Meilen an.
+-- Flugzeit: Zeigt die Flugzeit zwischen den beiden Waypoint in Minuten an
+- Ausgabe Gesamte Route
+-- Fluggeschwindigkeit: Zeigt die zur Berechnung benutzte Fluggeschwindigkeit an
+-- Reisedistanz: Zeigt die Gesamte Distanz in nautischen Meilen an.
+-- Reisezeit: Zeigt die gesamte Reisedauer in Minuten an.
+
+- Glossar:
+-- Waypoint: Wegpunkt der sich auf einer Route befindet. Wird mit einem 3 bis 5 Stelligen Kürzel benannt.
+-- Route: Weg vom Startpunkt zum Endpunkt
+-- Steuerkurs:

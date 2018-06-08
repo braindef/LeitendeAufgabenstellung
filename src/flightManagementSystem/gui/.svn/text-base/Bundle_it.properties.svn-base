@@ -1,0 +1,57 @@
+# To change this template, choose Tools | Templates
+# and open the template in the editor.
+
+airport=Flughafen
+waypoint=Waypoint
+latitude=Breitengrad
+longitude=L\u00E4ngengrad
+flightspeed=Fluggeschwindigkeit
+[knot]=[Knoten]
+calculate=Berechnen
+add_waypoint=Waypoint hinzuf\u00FCgen
+delete_selected_waypoint=Ausgew\u00E4hlten Waypoint l\u00F6schen
+move_waypoint_upwards=Waypoint nach oben schieben
+move_waypoint_downwards=Waypoint nach unten schieben
+file=Datei
+new...=Neu...
+create_an_empty_route=Eine leere Route erstellen
+open...=\u00D6ffnen...
+open_an_allready_existing_route=Eine existierende Route \u00F6ffnen
+save=Speichern
+save_current_route=Aktuelle Route speichern
+XML-Export=XML-Export
+save_current_route_to_xml=Route in eine XML Datei speichern
+XML-Import=XML-Import
+import_route_from_xml=Route von einer XML Datei laden
+exit=Ende
+exit_program=Programm verlassen
+options=Optionen
+german=Deutsch
+select_german_language=Deutsche Sprache w\u00E4hlen
+english=Englisch
+select_english_language=Enlische Sprache w\u00E4hlen
+help=Hilfe
+handling=Handbuch
+information_about_handling=Bedienungshandbuch anzeigen
+about_us=\u00DCber uns
+information_about_the_developers=Informationen zu den entwicklern
+all_data_not_saved_will_be_lost,_continue?=Alle nicht gespeicherten Informationen gehen verloren, weiterfahren?
+error_in_data=Fehler in den Daten
+XML-Export_error_(Marshaller)=XML-Export Fehler (Marshaller)
+mark_a_row_first!=Bitte zuerste eine Zeile markieren!
+waypoint_is_at_first_position!=Der Waypoint ist schon an erster Stelle!
+waypoint_is_at_last_position!=Der Waypoint ist schon an letzter Stelle!
+_is_no_correct_value,_Example_N47275= ist keine korrekte Angabe, Beispiel: N47275
+_is_no_correct_value,_Example_E008329= ist keine korrekte Angabe, Beispiel: E008329
+
+fms_calculatoin=Flight Management System - Berechnung
+origin_waypoint=Start Waypoint
+destination_waypoint=Ziel Waypoint
+heading_[\u00B0]=Kurs
+distance_[NM]=Distanz [NM]
+flighttime_[Min]=Flugzeit [min]
+flightspeed=Geschwindigkeit:
+journey_distance=Distanz:
+[NM]=[NM]
+journey_time=Zeit:
+[Min]=[min]

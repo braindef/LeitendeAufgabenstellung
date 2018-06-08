@@ -1,0 +1,79 @@
+8
+
+dir
+122
+svn://filu.myftp.org/Gruppe1-LA-4/LeitendeAufgabenstellung/nbproject
+svn://filu.myftp.org/Gruppe1-LA-4
+
+
+
+2008-07-27T15:54:25.686723Z
+120
+marc
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a8d6b6da-ba59-4064-9d83-2d99e579f8b6
+
+project.properties
+file
+
+
+
+
+2008-07-27T21:27:36.000000Z
+9a0414c6d50bda50a25afb9b82ce52d3
+2008-07-27T15:54:25.686723Z
+120
+marc
+
+project.xml
+file
+
+
+
+
+2008-07-27T21:27:36.000000Z
+c2ed70e8e8673166df91979f330f02b4
+2008-05-12T15:19:11.704454Z
+4
+marc
+
+genfiles.properties
+file
+
+
+
+
+2008-07-27T21:27:36.000000Z
+50934080e1715eae1e333e486ee6aea4
+2008-07-24T20:29:21.297185Z
+106
+marc
+
+configs
+dir
+
+build-impl.xml
+file
+
+
+
+
+2008-07-27T21:27:36.000000Z
+ca4b7c2b9b5da2562a33e9be16464bab
+2008-07-24T20:29:21.297185Z
+106
+marc
+

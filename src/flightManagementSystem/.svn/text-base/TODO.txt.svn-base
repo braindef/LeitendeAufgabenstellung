@@ -1,0 +1,40 @@
+WTK window in toolkit
+
+JEditor
+javax.swing.JEditorPane.
+
+CLEAR ALL BUTTON in inputmask
+
+90Â°50 Minuten abfangen bei der eingabe??? oder habi hc das schon?
+89Â°90' noch mÃ¶glch, abfangen nÃ¶tig?
+
+nimbus plaf funktioniert, einstellung in netbeans, farbe anpassen, aboutmask läuft weiter wenn geschlossen, ändern
+
+
+Pascal: JAVA API CellEditor betrachten, meine Methode gibt ein false zurÃ¼ck, wenn die lÃ¤ngen / Breitengrade falsch formatiert sind
+
+
+Resource Bundle http://java.sun.com/j2se/1.4.2/docs/api/java/util/ResourceBundle.html
+
+Need TO HAVE:
+FileStreams alle schliessen
+
+Romino:
+Warnungen/Fehlermeldungen:
+- Keine Warnung bei falsch eingegeben Waypoint Daten
+- Keine Warnung bei leerer Zeile in Tabelle
+
+Fehler:
+- ? anstatt : bei Über uns
+- Drucken kommt gar nichts
+
+Bedienung:
+- Es können nicht mehrere Zeilen Markiert und gelöscht werden
+- Man könnte auf allen Frames F1 für die Hilfe programmieren
+
+nice to have:
+- Feld mit Knoteneingabe könnte ein bisschen höher sein, damit es gleich gross
+  ist wie die nachoben und nachunten pfeile             --> ERLEDIGT::Marc
+- Berechnen Button könnte ein bisschen weiter oben sein, nicht so am unteren Rand --> ERLEDIGT::Marc
+- Die Anzeige der Berechnung von der Ganzen Route dürfte optisch noch ein bisschen
+  vom Rest abgegrenzt sein. Oder ev. sogar oberhalb der Tabelle.
